@@ -199,12 +199,12 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 604px;
 }
 
 .section2-content {
   padding-top: 192px;
   max-width: 308px;
+  padding-bottom: 193px;
 }
 
 .section2-h2 {
