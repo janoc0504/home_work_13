@@ -255,11 +255,17 @@ body {
 .section3-p-buy {
   max-width: 195px;
   margin: 0 30px 20px 30px;
+  letter-spacing: 0.7px;
+}
+
+.section3-p-300 {
+  letter-spacing: 1.05px;
 }
 
 .section3-blocks-paddings {
   padding-left: 40px;
   padding-right: 45px;
+  line-height: 140.625%;
 }
 
 .section3-block1:last-child {
@@ -301,6 +307,7 @@ body {
 .section3-p {
   margin-top: 25px;
   margin-bottom: 25px;
+  line-height: 140.625%;
 }
 
 .section3-input {
